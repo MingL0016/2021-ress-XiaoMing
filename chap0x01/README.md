@@ -10,7 +10,7 @@
 
 ## 实验结果
 1. 在VS中建立工程，修改编译选项，只保留/ZI(调试)和pdb文件路径两个选项，增加禁用安全检查选项(/GS-)。
-![](/img/setting.png)
+![](img/setting.png)
 
 2. 编译多个函数调用的示例代码。
 ![](img/program.png)
